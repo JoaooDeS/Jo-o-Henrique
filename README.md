@@ -59,7 +59,4 @@ Quero trabalhar em grandes empresas e fortalecer meu conhecimento sobre tecnólo
 
 ## Curiosidades
 
-Conte algo interessante sobre você.
-
-Exemplo:
-Comecei a estudar programação em 2025.
+Tenho sonho de ter uma moto.
